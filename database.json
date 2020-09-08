@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/RBE300X-Lab/RBE3001_Matlab13.git": [
+      "RBE300X-Lab/RBE3001_Matlab13",
+      "1599587355621"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
